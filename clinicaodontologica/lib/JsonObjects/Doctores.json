@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "623009b3b21f8233b344cf6f"
+  },
+  "nombre": "Marcos",
+  "apellido": "Soto",
+  "edad": "37",
+  "celular": "3214684321",
+  "especialidad": "Odontólogo"
+},{
+  "_id": {
+    "$oid": "623009b3b21f8233b344cf70"
+  },
+  "nombre": "Lucia",
+  "apellido": "Cordoba",
+  "edad": "45",
+  "especialidad": "Ortodoncista",
+  "celular": "3117652195"
+},{
+  "_id": {
+    "$oid": "623009b3b21f8233b344cf71"
+  },
+  "nombre": "Rodolfo",
+  "apellido": "Suarez",
+  "edad": "31",
+  "especialidad": "Odontólogo",
+  "celular": "3105432174"
+}]

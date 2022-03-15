@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "623010a7b21f8233b344cf7b"
+  },
+  "nombre": "Ampicilina",
+  "fecha_registro": "06/10/2020",
+  "fecha_vencimiento": "02/09/2022",
+  "descripcion": "Penicilina de acción bactericida"
+},{
+  "_id": {
+    "$oid": "623010a7b21f8233b344cf7c"
+  },
+  "nombre": "Tetraciclina",
+  "fecha_registro": "06/10/2019",
+  "fecha_vencimiento": "05/12/2023",
+  "descripcion": "Antibacteriano"
+},{
+  "_id": {
+    "$oid": "623010a7b21f8233b344cf7d"
+  },
+  "nombre": "Gentamicina",
+  "fecha_registro": "08/01/2021",
+  "fecha_vencimiento": "08/11/2024",
+  "descripcion": "Antibiótico sistémico, tópico y oftálmico"
+}]

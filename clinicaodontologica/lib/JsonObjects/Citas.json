@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6230132db21f8233b344cf81"
+  },
+  "id_medico": "2346",
+  "id_paciente": "1010010010",
+  "fecha_aten": "12/05/2022",
+  "hora": "8:00",
+  "estado": "Activa",
+  "observacion": "Ninguna"
+},{
+  "_id": {
+    "$oid": "6230132db21f8233b344cf82"
+  },
+  "id_medico": "2348",
+  "id_paciente": "1010010029",
+  "fecha_aten": "01/05/2022",
+  "hora": "14:00",
+  "estado": "Activa",
+  "observacion": "Ninguna"
+},{
+  "_id": {
+    "$oid": "6230132db21f8233b344cf83"
+  },
+  "id_medico": "2349",
+  "id_paciente": "1379410021",
+  "fecha_aten": "12/08/2022",
+  "hora": "17:00",
+  "estado": "Activa",
+  "observacion": "Ninguna"
+}]

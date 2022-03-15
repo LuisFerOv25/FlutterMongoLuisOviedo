@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "62300bb2b21f8233b344cf75"
+  },
+  "nombre": "Implante Dental",
+  "descripcion": "Disfrute de una dentadura sana y bonita gracias a la implantología dental",
+  "precio": "777000"
+},{
+  "_id": {
+    "$oid": "62300bb2b21f8233b344cf76"
+  },
+  "nombre": "Ortodoncia",
+  "descripcion": "Gracias a nuestra ortodoncia tendrá una sonrisa perfecta y envidiable",
+  "precio": "1500000"
+},{
+  "_id": {
+    "$oid": "62300bb2b21f8233b344cf77"
+  },
+  "nombre": "Endodoncia",
+  "descripcion": "La endodoncia es la solución inmediata y definitiva ante las molestias dolorosas provocadas por la afectación del nervio",
+  "precio": "520000"
+}]

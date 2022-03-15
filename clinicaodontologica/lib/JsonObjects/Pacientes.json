@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "62300443b21f8233b344cf65"
+  },
+  "nombre": "luis",
+  "apellido": "Oviedo",
+  "genero": "masculino",
+  "edad": "21",
+  "estrato": "3",
+  "rh": "o+"
+},{
+  "_id": {
+    "$oid": "623007cbb21f8233b344cf6a"
+  },
+  "nombre": "Jose",
+  "apellido": "Sotelo",
+  "genero": "masculino",
+  "edad": "26",
+  "estrato": "1",
+  "rh": "o-"
+},{
+  "_id": {
+    "$oid": "623007cbb21f8233b344cf6b"
+  },
+  "nombre": "Julia",
+  "apellido": "Gomez",
+  "genero": "fenemino",
+  "edad": "29",
+  "estrato": "5",
+  "rh": "o+"
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6230184cb21f8233b344cf9e"
+  },
+  "nombre": "Ortodóncia",
+  "fecha": "02/02/2022",
+  "observacion": "Se realizó la primera sesion con el paciente"
+},{
+  "_id": {
+    "$oid": "6230184cb21f8233b344cf9f"
+  },
+  "nombre": "Endodoncia",
+  "fecha": "21/02/2022",
+  "observacion": "Se efectuó con exito las molestias provocadas por el nervio"
+},{
+  "_id": {
+    "$oid": "6230184cb21f8233b344cfa0"
+  },
+  "nombre": "Implante dental",
+  "fecha": "10/02/2022",
+  "observacion": "Se realizó un implante dental en el dinete molar derecho"
+}]
